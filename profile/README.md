@@ -1,3 +1,3 @@
 # Tzuri Labs
 
-SOftware Development & Security - Innovating Together
+Software Development & Security - Innovating Together
