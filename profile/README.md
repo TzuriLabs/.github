@@ -1,5 +1,11 @@
-<!-- ![Tzuri Labs LOGO](../assets/logo.jpg) -->
+<h1 align="center">Tzuri Labs</h1>
 
-# Tzuri Labs
+<p align="center">
+  <i>Explore and Build Cloud-Native Systems, Together</i>
+</p>
 
-Open Knowledge for Cloud-Native Engineering!
+<br/>
+
+<p align="center">
+  <img src="../assets/logo.jpg" alt="Tzuri Labs Logo" width="300"/>
+</p>
