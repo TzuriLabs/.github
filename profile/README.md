@@ -7,5 +7,5 @@
 <br/>
 
 <p align="center">
-  <img src="../assets/logo.jpg" alt="Tzuri Labs Logo" width="300"/>
+  <img src="../assets/logo.jpg" alt="Tzuri Labs Logo" width="800"/>
 </p>
