@@ -1,1 +1,1 @@
-![Tzuri Labs LOGO](../assets/logo-darkmode.png)
+![Tzuri Labs LOGO](../assets/logo.jpg)
